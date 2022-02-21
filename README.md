@@ -1,8 +1,6 @@
 # Mini-Project-2: Statistical Analysis
 <ul><li> Generate statistical summary of data sets and perform exploratory data analysis</li>
- <li> Test of significance - statistical hypothesis testing (A/Btest) between two groups of data</li></ul>
- 
-<b>Covering:</b><ul>
+ <li> Test of significance - statistical hypothesis testing (A/Btest) between two groups of data</li>
 <li>Hypothesis testing </li>
   <ul>
   <li>Null and alternate hypothesis </li>
